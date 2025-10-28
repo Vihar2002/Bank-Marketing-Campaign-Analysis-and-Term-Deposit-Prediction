@@ -5,7 +5,7 @@ This project includes data cleaning, exploratory data analysis (EDA), and predic
 
 📁 Dataset
 
-Source: Kaggle - Bank Marketing Dataset
+Source: Kaggle - Bank Marketing Dataset (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
 
 Records: 11,162
 
