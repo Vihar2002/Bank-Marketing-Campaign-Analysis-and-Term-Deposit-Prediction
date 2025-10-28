@@ -108,5 +108,6 @@ Deploy using Streamlit for interactive predictions.
 ✍️ Author
 
 Vihar Dilip Yeole
+
 Mail: viharyeole@gmailcom  
 Linkedin: https://www.linkedin.com/in/viharyeole/
