@@ -88,15 +88,6 @@ Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn, kagglehub
 
 Environment: Google Colab
 
-🗂️ Repository Structure
-Bank-Marketing-Campaign-Analysis-and-Term-Deposit-Prediction/
-│
-├── Bank_Marketing_Analysis.ipynb       # Main analysis notebook
-├── README.md                           # Project documentation
-├── requirements.txt                    # Dependencies
-└── dataset/                            # Contains bank.csv
-
-
 🧩 Future Improvements
 
 Implement hyperparameter tuning (GridSearchCV).
